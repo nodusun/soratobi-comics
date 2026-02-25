@@ -6,7 +6,9 @@
       "Bash(python *)",
       "Bash(node *)",
       "Bash(npm *)",
-      "Read(**)"
+      "Read(**)",
+      "WebSearch(*)",
+      "WebFetch(*)"
     ],
     "defaultMode": "acceptEdits"
   }
